@@ -9,7 +9,7 @@
 | **Batch Number** | 9A |
 | **Assignment Number** | Assignment-3 |
 | **Email** | adlakaadish@gmail.com |
-| **GitHub Repository** | https://github.com/AADISHADLAK/MPONLINE-Assignment-2 |
+| **GitHub Repository** | https://github.com/AADISHADLAK/MPONLINE-Assignment-3 |
 
 ---
 
