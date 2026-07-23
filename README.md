@@ -7,7 +7,7 @@
 | **Registration Number** | 23BCE10681 |
 | **Application Number** | IN26010985 |
 | **Batch Number** | 9A |
-| **Assignment Number** | Assignment-2 |
+| **Assignment Number** | Assignment-3 |
 | **Email** | adlakaadish@gmail.com |
 | **GitHub Repository** | https://github.com/AADISHADLAK/MPONLINE-Assignment-2 |
 
