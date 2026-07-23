@@ -11,8 +11,6 @@
 | **Email** | adlakaadish@gmail.com |
 | **GitHub Repository** | https://github.com/AADISHADLAK/MPONLINE-Assignment-2 |
 
-> **Note:** The assignment brief supplied for this repository was titled "AI-ML Assignment – 3 — Salary Prediction using Polynomial Regression." The assignment number recorded above (Assignment-2) and the linked repository name are exactly as provided for this submission — please align these with your official Google Form submission before the deadline.
-
 ---
 
 ## 🎯 Objective
